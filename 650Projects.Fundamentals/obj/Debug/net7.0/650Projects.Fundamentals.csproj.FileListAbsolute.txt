@@ -1,0 +1,15 @@
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\bin\Debug\net7.0\650Projects.Fundamentals.exe
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\bin\Debug\net7.0\650Projects.Fundamentals.deps.json
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\bin\Debug\net7.0\650Projects.Fundamentals.runtimeconfig.json
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\bin\Debug\net7.0\650Projects.Fundamentals.dll
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\bin\Debug\net7.0\650Projects.Fundamentals.pdb
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.csproj.AssemblyReference.cache
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.AssemblyInfoInputs.cache
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.AssemblyInfo.cs
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.dll
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\refint\650Projects.Fundamentals.dll
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.pdb
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\650Projects.Fundamentals.genruntimeconfig.cache
+C:\Users\PartLaptop\Desktop\Projects\650Projects\650Projects.Fundamentals\obj\Debug\net7.0\ref\650Projects.Fundamentals.dll
