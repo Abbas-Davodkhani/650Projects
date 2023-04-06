@@ -34,3 +34,60 @@
 //m = 4 * 3;
 //Console.WriteLine(m);
 #endregion
+
+#region 5
+//int x;
+//x = sizeof(double);
+//Console.WriteLine(x); // 8
+#endregion
+
+#region 6
+//int x = 2;
+//int y = 0;
+
+// // y = 255 * x - 18 * x + 15;
+
+// //calculate y without *
+//int y1;
+//int y2;
+//int y3;
+
+//y1 = x << 8;
+//Console.WriteLine(y1);
+
+#endregion
+
+
+#region 7
+
+//int y;
+//int x;
+//int m;
+////int m = (y = 0, x = ++y, m = y, y + 2);
+
+//y = 0;
+//x = ++y; // x , y = 1
+//m = y; // m = 1;
+//y += 2; // y = 3
+
+//m = 1; // answer
+#endregion
+
+#region 8
+//double m = 3.0e-23;
+//int l = 950; // 950 g
+
+//int w = 0;
+//w = int.Parse(Console.ReadLine());
+
+//l = l * w;
+
+//var resuls = l / m;
+//Console.WriteLine(resuls);
+
+#endregion
+
+#region 9
+
+#endregion
+Console.ReadKey();
