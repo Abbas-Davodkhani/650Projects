@@ -57,7 +57,6 @@
 
 #endregion
 
-
 #region 7
 
 //int y;
@@ -88,6 +87,28 @@
 #endregion
 
 #region 9
+// Calculate your age in second 
+//double seconds = 3.156 * Math.Pow(10, 7); // 1 year in second
+//int year = 0;
+
+//Console.WriteLine("Please Enter Your Age : ");
+//year = int.Parse(Console.ReadLine());
+
+//double result = year * seconds;
+//Console.WriteLine(result);
+#endregion
+
+#region 10
+// your salary
+//Console.WriteLine("Pleade enter your salary : ");
+//double salary = double.Parse(Console.ReadLine());
+//double insurance = (salary * 7) / 100;
+//Console.WriteLine($"Pleade enter your insurance : {insurance}");
+//double tax = (salary * 10) / 100;
+//Console.WriteLine($"Pleade enter your tax : {tax}");
+
+//Console.WriteLine("------------------------------------------------");
+//Console.WriteLine($"your salary : {salary - (tax + insurance)}");
 
 #endregion
 Console.ReadKey();
