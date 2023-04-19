@@ -111,4 +111,21 @@
 //Console.WriteLine($"your salary : {salary - (tax + insurance)}");
 
 #endregion
+
+#region 11
+// swelling = (now - last) / last;
+// next = last + now * tavarom;
+//Console.WriteLine("Please enter current price : ");
+//int currentPrice = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Please enter last year price : ");
+//int lastYearPrice = int.Parse(Console.ReadLine());
+
+//int swelling = (currentPrice - lastYearPrice) / lastYearPrice;
+//Console.WriteLine($"swelling is : {swelling}");
+
+//int nextYearPrice = lastYearPrice + currentPrice * swelling;
+//Console.WriteLine($"next year price : {nextYearPrice}");
+
+#endregion
 Console.ReadKey();
